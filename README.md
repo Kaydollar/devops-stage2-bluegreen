@@ -6,3 +6,4 @@
 - `nginx/nginx.conf.template`
 - `render-and-run.sh`
 - `DECISION.md` (optional)
+# devops-stage2-bluegreen
